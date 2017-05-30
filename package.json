@@ -1,0 +1,12 @@
+{
+  "name": "testAllure",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "conf.js",
+  "dependencies": {
+    "jasmine-core": "2.6.2",
+    "protractor": "5.1.2",
+    "allure-commandline": "2.0.1"
+  }
+
+}
