@@ -10,15 +10,9 @@
   },
     "devDependencies": {
     "grunt": "1.0.0",
-    //"grunt-contrib-concat": "~1.0.0",
-    //"grunt-contrib-copy": "~1.0.0",
     "grunt-protractor-runner": "~3.1.0",
     "grunt-protractor-webdriver": "^0.2.5",
     "grunt-targethtml": "~0.2.6"
-    //"jasmine-allure-reporter": "latest",
-    //"jasmine-console-reporter": "latest",
-    //"grunt-sonar-runner": "latest",
-    //"jasmine-spec-reporter":"latest"
   }
 
 }
