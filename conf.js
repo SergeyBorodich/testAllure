@@ -7,10 +7,10 @@ exports.config = {
         defaultTimeoutInterval: 30000
     },
     onPrepare: function() {
-        var AllureReporter = require('jasmine-allure-reporter');
+        /*var AllureReporter = require('jasmine-allure-reporter');
         jasmine.getEnv().addReporter(new AllureReporter({
             resultsDir: 'allure-results'
         }));
-        //browser.driver.manage().window().maximize();
+        browser.driver.manage().window().maximize();*/
     }
 };
