@@ -6,6 +6,7 @@
   "dependencies": {
     "jasmine-core": "2.6.2",
     "protractor": "4.0.14",
+    "jasmine-allure-reporter": "0.2.3",
     "allure-commandline": "2.0.1"
   }
 

@@ -11,6 +11,6 @@ exports.config = {
         jasmine.getEnv().addReporter(new AllureReporter({
             resultsDir: 'allure-results'
         }));
-        browser.driver.manage().window().maximize();
+        //browser.driver.manage().window().maximize();
     }
 };
